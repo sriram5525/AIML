@@ -16,4 +16,4 @@ LAB-08:[IMPLEMENT DECISION TREE CLASSIFIER USING LEADING CLIB DATA](https://gith
 
 LAB-09:[RANDOM FOREST APPLIED TO LENDDINGCLUB DATA SET](https://github.com/sriram5525/AIML/blob/main/Lab09-RF_Classification.ipynb)
 
-LAB-10:[](https://github.com/sriram5525/AIML/blob/main/Lab10-KMeans.ipynb)
+LAB-10:[IMPLEMENT K-MEANS CLUSTERING USING SYNTHETIC DATA FROM BLOBS](https://github.com/sriram5525/AIML/blob/main/Lab10-KMeans.ipynb)
